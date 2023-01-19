@@ -1,0 +1,49 @@
+{
+  "board": [
+    {
+      "post": 1,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 2,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 3,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 4,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 5,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 6,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 7,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 8,
+      "piece": null,
+      "filled": false
+    },
+    {
+      "post": 9,
+      "piece": null,
+      "filled": false
+    }
+  ]
+}
