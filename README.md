@@ -1,6 +1,5 @@
 # Three-wise-men-game
 
-<h1>Three wise men game.</h1>
 <h2>aka Advanced Tik-Tac-Toe</h2>
 
 <h2>How to play</h2>
